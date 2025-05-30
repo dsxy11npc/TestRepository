@@ -5,7 +5,7 @@ import model.User;
 import java.util.Scanner;
 
 /**
- * 管理员操作器
+ * 管理员控制器
  */
 public class AdminControl {
     /** 输入 */
